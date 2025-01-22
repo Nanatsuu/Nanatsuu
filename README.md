@@ -73,7 +73,7 @@ I believe in lifelong learning and actively seek opportunities to sharpen my ski
 
 Whether you’re a fellow developer, a creative professional, or just someone curious about games and tech, I’d love to connect.  
   
-- 💼 **LinkedIn:** [MyLinkedInProfile](https://www.linkedin.com/in/annemanninen/)  
+- 💼 **LinkedIn:** [Anne Manninen](https://www.linkedin.com/in/annemanninen/)  
 
 ---
 
