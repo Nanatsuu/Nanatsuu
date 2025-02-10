@@ -1,6 +1,6 @@
-# 🌌 Welcome to My World  
+# 🌌 Welcome.. welcome 
 
-Hi there! I'm **Anne Manninen**, a **SW Developer** and **Business Information Systems student** with a knack for creating immersive 2D games and innovative tech solutions. My passion lies in combining creativity with technology, whether it's designing challenging game mechanics, crafting compelling narratives, or solving complex programming puzzles.  
+Hi there! I'm **Anne Manninen**, **Business Information Systems student** with a knack for creating immersive 2D games and innovative tech solutions. My passion lies in combining creativity with technology, whether it's designing challenging game mechanics, crafting compelling narratives, or solving complex programming puzzles.  
 
 ---
 
@@ -12,7 +12,7 @@ I’m leading the development of a **mobile 2D platformer** for Android, featuri
 - **Unique Enemies:** Including a ghost enemy that can pass through players and requires skillful combat to defeat.  
 - **Dynamic Mechanics:** Smooth animations, haptic feedback, and an engaging progression system.  
 
-This project highlights my skills in **team management, enemy behavior developer, marketing, and debugging**. It’s a labor of love, and I can’t wait to share it with the world.  
+This project highlights my skills in **team management, enemy behavior developer, marketing, and debugging**. 
 
 #### 📖 **Upcoming Cookbook Project: Sharing My Recipes**  
 As someone who loves experimenting in the kitchen, I’m starting a **cookbook project** to share my favorite recipes.  
