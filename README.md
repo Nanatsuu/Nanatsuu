@@ -1,6 +1,6 @@
 # 🌌 Welcome.. welcome 
 
-Hi there! I'm **Anne Manninen**, **Business Information Systems student** with a knack for creating immersive 2D games and innovative tech solutions. My passion lies in combining creativity with technology, whether it's designing challenging game mechanics, crafting compelling narratives, or solving complex programming puzzles.  
+Hi there! I'm **Anne**, **Business Information Systems student** with a knack for creating immersive 2D games and innovative tech solutions. My passion lies in combining creativity with technology, whether it's designing challenging game mechanics, crafting compelling narratives, or solving complex programming puzzles.  
 
 ---
 
@@ -24,13 +24,13 @@ Whether it’s hearty soups for fall or creative ways to repurpose leftovers, I�
   
 ---
 
-## 🌟 My Superpowers  
+## 🌟 My Skills  
 
 ### **Tech Stack Mastery**  
 I thrive at the intersection of creativity and technology, with expertise in:  
-- **Programming Languages:** C#, SQL, JavaScript, Python basics 
+- **Programming Languages:** C#, SQL, JavaScript, Python, R 
 - **Web Development:** HTML, CSS, React, Bootstrap, NodeJS
-- **Game Engines:** Unity (focused on 2D development), Unreal Engine basics 
+- **Game Engines:** Unity (focused on 2D development), Unreal Engine
 - **Version Control:** GitHub Desktop, Git  
 
 ### **Creative Design Skills**   
@@ -53,28 +53,3 @@ I thrive at the intersection of creativity and technology, with expertise in:
 ### **Tools of the Trade**  
 - Microsoft Office Suite  
 - Development Tools: Visual Studio Code, Visual Studio
-
----
-
-## 🌍 Beyond Development  
-
-### **🎨 Passion for Visual Art**  
-When I’m not coding, I immerse myself in visual art, exploring creative ways to design game assets and blend art with technology. From crafting unique animations to conceptualizing game aesthetics, I find joy in bringing ideas to life visually.  
-
-### **📖 Exploring New Creative Projects**  
-I’m always inspired to start new projects that combine creativity and functionality. Whether it’s designing game elements, experimenting with new styles, or working on my cookbook project, I’m driven by the endless possibilities of creation.  
-
-### **🛠️ Continuous Growth**  
-I believe in lifelong learning and actively seek opportunities to sharpen my skills in game development, visual design, and project management. Every project is a chance to grow and explore new horizons.   
-
----
-
-## ✨ Let's Collaborate!  
-
-Whether you’re a fellow developer, a creative professional, or just someone curious about games and tech, I’d love to connect.  
-  
-- 💼 **LinkedIn:** [Anne Manninen](https://www.linkedin.com/in/annemanninen/)  
-
----
-
-Thanks for stopping by! Let’s make something amazing together. 🚀  
