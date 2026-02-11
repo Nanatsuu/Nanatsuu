@@ -1,55 +1,44 @@
 # 🌌 Welcome.. welcome 
 
-Hi there! I'm **Anne**, **Business Information Systems student** with a knack for creating immersive 2D games and innovative tech solutions. My passion lies in combining creativity with technology, whether it's designing challenging game mechanics, crafting compelling narratives, or solving complex programming puzzles.  
+Hi there! I'm **Anne**, a **Business Information Systems student** at Oulu University of Applied Sciences. I am an aspiring Data Professional with a focus on **Data Modeling** and developing **Intelligent BI Solutions**. My passion lies in transforming raw, complex data into clear, actionable insights that drive better decision-making.
 
 ---
 
-## 🎨 My Creative Playground  
+## 📊 Data Analytics & BI Focus 
 
-### **🎮 Current Game Project: Aetherfall: Fate of the Forgotten**  
-I’m leading the development of a **mobile 2D platformer** for Android, featuring:  
-- **Story-Driven Gameplay:** Navigate a mysterious world filled with secrets and personal challenges.  
-- **Unique Enemies:** Including a ghost enemy that can pass through players and requires skillful combat to defeat.  
-- **Dynamic Mechanics:** Smooth animations, haptic feedback, and an engaging progression system.  
+### **🔍 Current Focus: Raw Data & Thesis Work**
+I am currently specializing in the management and analysis of raw data, which is also the core theme of my upcoming **Thesis**.
+- **Data Integrity:** Expertise in handling "noisy" industrial data, including outlier detection and signal processing.
+- **AI-Enhanced Development:** Actively leveraging AI agents and LLMs to optimize data workflows, automate ETL processes, and enhance code efficiency.
 
-This project highlights my skills in **team management, enemy behavior developer, marketing, and debugging**. 
+### **🛠️ Featured Project: Industrial Data Mining**
+In my recent work, I tackled the challenge of processing noisy industrial-style raw data. 
+- **The Challenge:** Filtering out measurement errors and noise that would otherwise distort business analytics.
+- **The Solution:** Developed scripts (Python/C#) to identify and remove outliers, isolating the true signal.
+- **The Result:** Highly accurate data models that provide a reliable foundation for BI reporting.
 
-#### 📖 **Upcoming Cookbook Project: Sharing My Recipes**  
-As someone who loves experimenting in the kitchen, I’m starting a **cookbook project** to share my favorite recipes.  
-- Featuring **warming and seasonal dishes** inspired mostly by asian and finnish cuisines.  
-- Focused on **easy-to-follow steps** and **efficient meal planning**.  
-- Aimed at helping others cook delicious meals while reducing food waste.  
-
-Whether it’s hearty soups for fall or creative ways to repurpose leftovers, I’m excited to combine my passion for cooking with a creative project.  
-  
 ---
 
-## 🌟 My Skills  
+## 🌟 Technical Toolkit
 
-### **Tech Stack Mastery**  
-I thrive at the intersection of creativity and technology, with expertise in:  
-- **Programming Languages:** C#, SQL, JavaScript, Python, R 
-- **Web Development:** HTML, CSS, React, Bootstrap, NodeJS
-- **Game Engines:** Unity (focused on 2D development), Unreal Engine
-- **Version Control:** GitHub Desktop, Git  
+### **Data & Analytics Mastery**
+- **BI Tools:** Power BI, Excel (Advanced), Tableau
+- **Databases:** SQL (MySQL), MongoDB 
+- **Languages:** SQL, C#, Python, R, JavaScript 
 
-### **Creative Design Skills**   
-- Clip Studio Paint
-- Procreate
-- Adobe Creative Suite (Photoshop, Illustrator)  
+### **Development & Systems**
+- **Web Tech:** React, Node.js, HTML/CSS 
+- **Version Control:** Git & GitHub Desktop
+- **IT Infrastructure:** Azure management and IT system maintenance 
 
-### **Database Management**  
-- MySQL  
-- MongoDB  
+### **Creative Engineering**
+- **Design Tools:** Adobe Creative Suite (Photoshop, Illustrator), Clip Studio Paint 
+- **Visual Analytics:** Combining my background in visual design with data to create intuitive and high-impact dashboards.
 
-### **Project Management and Strategy**  
-- Leading a game development team with clear task allocation and goals  
-- Preparing funding applications and marketing strategies  
-- Managing external testing and quality assurance processes  
+---
 
-### **Operating System Expertise**  
-- Windows, macOS  
+## 🚀 Professional Goals
+I am looking to dive into the "deep end" of industrial analytics. I thrive in environments that value functional solutions over bureaucracy and offer opportunities to solve real-world data puzzles.
 
-### **Tools of the Trade**  
-- Microsoft Office Suite  
-- Development Tools: Visual Studio Code, Visual Studio
+**Let's connect!**
+**LinkedIn:** [linkedin.com/in/annemanninen/](https://www.linkedin.com/in/annemanninen/)
